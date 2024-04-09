@@ -1,7 +1,8 @@
 # End-to-End-Chest-Cancer-Classification-using-MLflow-and-DVC
 
 
-~~~Workflows
+~~~bash
+Workflows
     Update config.yaml
     Update secrets.yaml [Optional]
     Update params.yaml
